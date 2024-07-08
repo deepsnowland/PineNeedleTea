@@ -3,72 +3,86 @@
     "GAMEPLAY_PineNeedle": {
 
         "English": "Pine Fascicle",
-        "Turkish": "Çam Demeti"
+        "Turkish": "Çam Demeti",
+        "Japanese": "松葉の束"
     },
     "GAMEPLAY_PineNeedleSingle": {
 
         "English": "Pine Fascicle",
-        "Turkish": "Çam Demeti"
+        "Turkish": "Çam Demeti",
+        "Japanese": "松葉の束"
     },
     "GAMEPLAY_PineNeedleMultiple": {
 
         "English": "Pine Fascicles",
-        "Turkish": "Çam Demetleri"
+        "Turkish": "Çam Demetleri",
+        "Japanese": "松葉の束"
     },
     "GAMEPLAY_PineNeedleDescription": {
 
         "English": "A little pine fascicle that fell from a tree. The needles can be used to brew tea.",
-        "Turkish": "Ağaçtan düşen küçük bir çam demeti. İğneleri çay demlemek için kullanılabilir."
+        "Turkish": "Ağaçtan düşen küçük bir çam demeti. İğneleri çay demlemek için kullanılabilir.",
+        "Japanese": "松の木から落ちた松葉の小さな束。お茶を淹れるのに使える。"
     },
     "GAMEPLAY_PineNeedleDried": {
 
         "English": "Dried Pine Fascicle",
-        "Turkish": "Kurutulmuş Çam Demeti"
+        "Turkish": "Kurutulmuş Çam Demeti",
+        "Japanese": "乾燥させた松葉の束"
     },
     "GAMEPLAY_PineNeedleDriedSingle": {
 
         "English": "Dried Pine Fascicle",
-        "Turkish": "Kurutulmuş Çam Demeti"
+        "Turkish": "Kurutulmuş Çam Demeti",
+        "Japanese": "乾燥させた松葉の束"
     },
     "GAMEPLAY_PineNeedleDriedMultiple": {
 
         "English": "Dried Pine Fascicles",
-        "Turkish": "Kurutulmuş Çam Salkımı"
+        "Turkish": "Kurutulmuş Çam Salkımı",
+        "Japanese": "乾燥させた松葉の束"
     },
     "GAMEPLAY_PineNeedleDriedDescription": {
 
         "English": "A dried pine fascicle filled with needles. A bunch can be prepared to be brewed into tea.",
-        "Turkish": "İğnelerle dolu kurumuş bir çam salkımı. Çay demlemek için bir demet iğne kullanılabilir."
+        "Turkish": "İğnelerle dolu kurumuş bir çam salkımı. Çay demlemek için bir demet iğne kullanılabilir.",
+        "Japanese": "乾燥させた松葉の小さな束。調理してお茶にすることができる。"
     },
     "GAMEPLAY_PineNeedlePrepared": {
 
         "English": "Prepared Pine Needles",
-        "Turkish": "Hazırlanmış Çam İğneleri"
+        "Turkish": "Hazırlanmış Çam İğneleri",
+        "Japanese": "調理済みの松葉"
     },
     "GAMEPLAY_PineNeedlePreparedSingle": {
 
         "English": "Prepared Pine Needles",
-        "Turkish": "Hazırlanmış Çam İğneleri"
+        "Turkish": "Hazırlanmış Çam İğneleri",
+        "Japanese": "調理済みの松葉"
     },
     "GAMEPLAY_PineNeedlePreparedMultiple": {
 
         "English": "Prepared Pine Needles",
-        "Turkish": "Hazırlanmış Çam İğneleri"
+        "Turkish": "Hazırlanmış Çam İğneleri",
+        "Japanese": "調理済みの松葉"
     },
     "GAMEPLAY_PineNeedlePreparedDescription": {
 
         "English": "A bundle of prepared pine needles that can be brewed into a tea. It also serves great as tinder.",
-        "Turkish": "Demleyip çay olarakda içilebilen çam demeti. Aynı zamanda çıra olarak da kullanılır."
+        "Turkish": "Demleyip çay olarakda içilebilen çam demeti. Aynı zamanda çıra olarak da kullanılır.",
+        "Japanese": "調理済みの松葉の束、お茶を淹れることができる。良い火種にもなる。"
     },
     "GAMEPLAY_PineNeedleTea": {
 
         "English": "Pine Needle Tea",
-        "Turkish": "Çam İğnesi Çayı"
+        "Turkish": "Çam İğnesi Çayı",
+        "Japanese": "松の葉の茶"
     },
     "GAMEPLAY_PineNeedleTeaDescription": {
 
         "English": "A herbal tea made from dried pine needles. Drinking it will help you sleep better.",
-        "Turkish": "Kurutulmuş çam iğnelerinden yapılan bir bitki çayı. Bunu içmek daha iyi uyumanıza yardımcı olacaktır."
+        "Turkish": "Kurutulmuş çam iğnelerinden yapılan bir bitki çayı. Bunu içmek daha iyi uyumanıza yardımcı olacaktır.",
+        "Japanese": "乾燥させた松葉で淹れたハーブティー。飲むとぐっすり眠れる。"
     }
 
 }
