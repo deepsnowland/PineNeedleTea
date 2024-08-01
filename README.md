@@ -1,17 +1,15 @@
-# Pine Needle Tea
+
 ![Screenshot](https://github.com/DemonBunnyBon/PineNeedleTea/blob/main/Thumb_PNT.png?raw=true)
+
+# Pine Needle Tea
 
 A mod for The Long Dark that adds a renewable source of herbal tea.
 
-# Details
+The mod adds pine fascicles that can be found underneath trees, with adjustable spawn rates.
 
-The mod adds pine fascicles that can be found underneath trees. 
+To brew them into tea, you have to gather a bunch and dry them indoors for a day. After that you can prepare 6 of them in the crafting menu to be brewed.
 
-These can be gathered and after drying the needles can be prepared into a herbal tea or used as tinder.
-
-The spawn rate of the fascicles can be adjusted via mod settings. 
-
-The tea offers benefits such as having a lot of vitamin C as well as the improved sleep buff, although it is slightly weaker than the buff from regular herbal tea. 
+The tea contains a high amount of vitamin C, and offers the Improved Rest benefit, however it is weaker than the Herbal Tea.
 
 # Item IDs
 
