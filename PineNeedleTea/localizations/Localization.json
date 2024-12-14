@@ -13,7 +13,7 @@
         "English": "Pine Fascicle",
         "Turkish": "Çam Demeti",
         "Italian": "Grappolo di Pino",
-	"Russian": "Сосновая хвоинка",
+	    "Russian": "Сосновая хвоинка",
         "German" : "Kiefernfaszikel"
     },
     "GAMEPLAY_PineNeedleMultiple": {
@@ -21,7 +21,7 @@
         "English": "Pine Fascicles",
         "Turkish": "Çam Demetleri",
         "Italian": "Grappoli di Pini",
-        "Italian": "Сосновые хвоинки",
+        "Russian": "Сосновые хвоинки",
         "German" : "Kiefernbündel" 
     },
     "GAMEPLAY_PineNeedleDescription": {
