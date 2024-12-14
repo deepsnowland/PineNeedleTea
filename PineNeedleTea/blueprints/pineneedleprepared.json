@@ -3,7 +3,7 @@
     "RequiredGear": [
         {
             "Item": "GEAR_PineNeedleDried",
-            "Count": 5
+            "Count": 6
         }
     ],
     "RequiredTool": "",
@@ -12,7 +12,7 @@
     "RequiresLight": true,
     "CraftedResult": "GEAR_PineNeedlePrepared",
     "CraftedResultCount": 1,
-    "DurationMinutes": 15,
+    "DurationMinutes": 5,
     "CraftingAudio": "Play_HarvestingPlants",
     "AppliedSkill": "None",
     "ImprovedSkill": "None"

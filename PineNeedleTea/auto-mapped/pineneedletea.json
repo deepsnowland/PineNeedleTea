@@ -21,7 +21,7 @@
         "InspectModel": "",
 
         "Cooking": true,
-        "CookingMinutes": 8,
+        "CookingMinutes": 10,
         "CookingUnitsRequired": 1,
         "CookingWaterRequired": 0,
         "CookingResult": "",
@@ -32,7 +32,7 @@
 
         "DaysToDecayOutdoors": 750,
         "DaysToDecayIndoors": 400,
-        "Calories": 80,
+        "Calories": 100,
         "Servings": 1,
         "EatingTime": 3,
         "EatingAudio": "Play_Slurping1",
@@ -71,6 +71,5 @@
         "ContainsAlcohol": false,
         "AlcoholPercentage": 0,
         "AlcoholUptakeMinutes": 45,
-        "VitaminC": 35
     }
 }

@@ -39,6 +39,6 @@
     },
     "ModTinderBehaviour": {
             "DurationOffset": 2,
-            "SuccessModifier": 30
+            "SuccessModifier": 35
         }
 }
