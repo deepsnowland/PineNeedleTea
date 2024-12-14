@@ -40,3 +40,5 @@ Pine Needle Tea:
 
 - Italian translation by LettereUniche
 - Turkish translation by Elderly-Emre
+- Russian translation by Mazytus
+- German translation by Rataj1250
