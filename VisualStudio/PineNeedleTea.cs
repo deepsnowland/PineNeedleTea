@@ -19,7 +19,7 @@ namespace PineNeedleTeaMod
         }
         public override void OnInitializeMelon()
 		{
-			MelonLoader.MelonLogger.Msg(System.ConsoleColor.Green, "Freshly brewed pine needle tea...");
+			MelonLoader.MelonLogger.Msg(System.ConsoleColor.Cyan, "Freshly brewed pine needle tea...");
             assetBundle = LoadAssetBundle("PineNeedleTea.pineteaassets");
             Settings.instance.AddToModSettings("Pine Needle Tea");
             //Settings.OnLoad();
@@ -53,6 +53,11 @@ namespace PineNeedleTeaMod
 
         private static void ChangeItemProperties()
         {
+            FoodItem.Nutrient vitc = new FoodItem.Nutrient();
+            vitc.m_Amount = Settings.instance.VitaminC;
+            vitc.m_Nutrient = new Il2CppTLD.Gameplay.AssetReferenceNutrientDefinition("13a8bda1e12982e428b7551cc01b01df");
+
+
             GameObject gear;
             Texture2D LiquidTexture = PineNeedleTea.TeaTexturesBundle.LoadAsset<Texture2D>("T_PineTea_Cooking");
             Material LiquidMaterial = new Material(GearItem.LoadGearItemPrefab("GEAR_CoffeeCup").gameObject.GetComponent<Cookable>().m_CookingPotMaterialsList[0]);
@@ -67,6 +72,13 @@ namespace PineNeedleTeaMod
             
             gear.GetComponent<FoodItem>().m_HeatedWhenCooked = true;
             gear.GetComponent<Cookable>().m_CookingPotMaterialsList = new Material[1] { LiquidMaterial };
+            gear.GetComponent<FoodItem>().m_Nutrients = new Il2CppSystem.Collections.Generic.List<FoodItem.Nutrient>();
+            gear.GetComponent<FoodItem>().m_Nutrients.Add(vitc);
+            gear.AddComponent<FreezingBuff>();
+            gear.GetComponent<FreezingBuff>().m_DurationHours = 0.5f;
+            gear.GetComponent<FreezingBuff>().m_InitialPercentDecrease = 10f;
+            gear.GetComponent<FreezingBuff>().m_RateOfIncreaseScale = 1;
+
 
 
 

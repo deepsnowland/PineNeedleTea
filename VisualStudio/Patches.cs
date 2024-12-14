@@ -18,12 +18,14 @@ namespace PineNeedleTeaMod
 
             if (__instance != null && __instance.name.Contains("RadialSpawn_sticks") && PineNeedleTeaUtils.Needles != null)
             {
-                if (Utils.RollChance(Settings.instance.NeedleChance))
+               if (Utils.RollChance(Settings.instance.NeedleChance))
                 {
                     __result = PineNeedleTeaUtils.Needles;
                 }
             }
         }
     }
+
+
 }
 
