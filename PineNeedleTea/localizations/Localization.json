@@ -6,15 +6,17 @@
         "Turkish": "Çam Demeti",
         "Italian": "Grappolo di Pino",
         "Russian": "Сосновая хвоинка",
-        "German" : "Kiefernfaszikel"		
+        "German" : "Kiefernfaszikel",
+        "Japanese": "松葉の房"
     },
     "GAMEPLAY_PineNeedleSingle": {
 
         "English": "Pine Fascicle",
         "Turkish": "Çam Demeti",
         "Italian": "Grappolo di Pino",
-	    "Russian": "Сосновая хвоинка",
-        "German" : "Kiefernfaszikel"
+	"Russian": "Сосновая хвоинка",
+        "German" : "Kiefernfaszikel",
+        "Japanese": "松葉の房"
     },
     "GAMEPLAY_PineNeedleMultiple": {
 
@@ -22,7 +24,8 @@
         "Turkish": "Çam Demetleri",
         "Italian": "Grappoli di Pini",
         "Russian": "Сосновые хвоинки",
-        "German" : "Kiefernbündel" 
+        "German" : "Kiefernbündel",
+        "Japanese": "松葉の房"
     },
     "GAMEPLAY_PineNeedleDescription": {
 
@@ -30,7 +33,8 @@
         "Turkish": "Ağaçtan düşen küçük bir çam demeti. İğneleri çay demlemek için kullanılabilir.",
         "Italian": "Un piccolo grappolo di pino caduto da un albero. Gli aghi si possono usare per preparare un tè.",
         "Russian": "Маленькая сосновая веточка, упавшая с дерева. Хвою можно использовать для заваривания чая.",
-        "German" : "Ein kleines Kiefernbündel, das von einem Baum gefallen ist. Die Nadeln können zum Aufbrühen von Tee verwendet werden."
+        "German" : "Ein kleines Kiefernbündel, das von einem Baum gefallen ist. Die Nadeln können zum Aufbrühen von Tee verwendet werden.",
+        "Japanese": "松の木から落ちた松葉の小さな房。松葉はお茶を淹れるのに使える。"
     },
     "GAMEPLAY_PineNeedleDried": {
 
@@ -38,7 +42,8 @@
         "Turkish": "Kurutulmuş Çam Demeti",
         "Italian": "Grappolo di Pino Secco",
         "Russian": "Высушенная сосновая хвоинка",
-        "German" : "Getrocknete Kiefernfaszikel"
+        "German" : "Getrocknete Kiefernfaszikel",
+        "Japanese": "乾燥させた松葉の房"
     },
     "GAMEPLAY_PineNeedleDriedSingle": {
 
@@ -46,7 +51,8 @@
         "Turkish": "Kurutulmuş Çam Demeti",
         "Italian": "Grappolo di Pino Secco",
 	"Russian": "Высушенная сосновая хвоинка",
-        "German" : "Getrocknete Kiefernfaszikel"
+        "German" : "Getrocknete Kiefernfaszikel",
+        "Japanese": "乾燥させた松葉の房"
 		},
     "GAMEPLAY_PineNeedleDriedMultiple": {
 
@@ -54,7 +60,8 @@
         "Turkish": "Kurutulmuş Çam Salkımı",
         "Italian": "Grappoli di Pini Secchi",
 	"Russian": "Высушенные сосновые хвоинки",
-        "German" : "Getrocknetes Kiefernbündel" 
+        "German" : "Getrocknetes Kiefernbündel",
+        "Japanese": "乾燥させた松葉の房"
     },
     "GAMEPLAY_PineNeedleDriedDescription": {
 
@@ -62,7 +69,8 @@
         "Turkish": "İğnelerle dolu kurumuş bir çam salkımı. Çay demlemek için bir demet iğne kullanılabilir.",
         "Italian": "Un grappolo di pino secco pieno di aghi. Un paio può essere preparato e infuso in un tè.",
 	"Russian": "Высушенная сосновая хвоя. Хвою можно использовать для заваривания чая.",
-        "German" : "Ein getrocknetes Kiefernbündel, gefüllt mit Nadeln. Ein Bündel kann zum Aufbrühen von Tee zubereitet werden."	
+        "German" : "Ein getrocknetes Kiefernbündel, gefüllt mit Nadeln. Ein Bündel kann zum Aufbrühen von Tee zubereitet werden.",
+        "Japanese": "乾燥させた松葉の小さな房。一まとめにしたものを処理してお茶を淹れることができる。"
     },
     "GAMEPLAY_PineNeedlePrepared": {
 
@@ -70,7 +78,8 @@
         "Turkish": "Hazırlanmış Çam İğneleri",
         "Italian": "Aghi di Pino Preparati",
         "Russian": "Подготовленная сосновая хвоинка",
-        "German" : "Präparierte Kiefernnadeln"
+        "German" : "Präparierte Kiefernnadeln",
+        "Japanese": "下処理済みの松葉"
     },
     "GAMEPLAY_PineNeedlePreparedSingle": {
 
@@ -78,7 +87,8 @@
         "Turkish": "Hazırlanmış Çam İğneleri",
         "Italian": "Aghi di Pino Preparati",
 	"Russian": "Подготовленная сосновая хвоинка",
-        "German" : "Präparierte Kiefernnadeln"
+        "German" : "Präparierte Kiefernnadeln",
+        "Japanese": "下処理済みの松葉"
     },
     "GAMEPLAY_PineNeedlePreparedMultiple": {
 
@@ -86,7 +96,8 @@
         "Turkish": "Hazırlanmış Çam İğneleri",
         "Italian": "Aghi di Pini Preparati",
 	"Russian": "Подготовленные сосновые хвоинки",
-        "German" : "Präparierte Kiefernnadeln"
+        "German" : "Präparierte Kiefernnadeln",
+        "Japanese": "下処理済みの松葉"
     },
     "GAMEPLAY_PineNeedlePreparedDescription": {
 
@@ -94,7 +105,8 @@
         "Turkish": "Demleyip çay olarakda içilebilen çam demeti. Aynı zamanda çıra olarak da kullanılır.",
         "Italian": "Un mazzo di aghi di pino preparati che possono essere infusi in un tè. Può anche servire come una buona esca per il fuoco.",
         "Russian": "Пучок подготовленных сосновых хвоинок, которые можно заваривать в качестве чая. Он также отлично подходит в качестве трута.",
-        "German" : "Ein Bündel zubereiteter Kiefernnadeln, aus denen man einen Tee aufbrühen kann. Es eignet sich auch hervorragend als Zunder."
+        "German" : "Ein Bündel zubereiteter Kiefernnadeln, aus denen man einen Tee aufbrühen kann. Es eignet sich auch hervorragend als Zunder.",
+        "Japanese": "下処理済みの松葉の束、お茶を淹れることができる。良い火種にもなる。"
     },
     "GAMEPLAY_PineNeedleTea": {
 
@@ -102,7 +114,8 @@
         "Turkish": "Çam İğnesi Çayı",
         "Italian": "Tè di Aghi di Pino",
         "Russian": "Чай из сосновой хвои",
-        "German" : "Kiefernnadeltee"			
+        "German" : "Kiefernnadeltee",
+        "Japanese": "松葉茶"
     },
     "GAMEPLAY_PineNeedleTeaDescription": {
 
@@ -110,7 +123,8 @@
         "Turkish": "Kurutulmuş çam iğnelerinden yapılan bir bitki çayı. Bunu içmek daha iyi uyumanıza yardımcı olacaktır.",
         "Italian": "Una tisana fatta da aghi di pino secchi. Berlo aiuta a dormire meglio.",
         "Russian": "Травяной чай, приготовленный из сушеной сосновой хвои. Его употребление поможет вам лучше спать.",
-        "German" : "Ein Kräutertee aus getrockneten Kiefernnadeln. Wenn Sie ihn trinken, können Sie besser schlafen."
+        "German" : "Ein Kräutertee aus getrockneten Kiefernnadeln. Wenn Sie ihn trinken, können Sie besser schlafen.",
+        "Japanese": "乾燥させた松葉で淹れたハーブティー。飲むとぐっすり眠れる。"
     }
 
 }
